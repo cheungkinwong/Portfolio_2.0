@@ -1,6 +1,6 @@
 <template>
   <v-container class="pa-4" id="info">
-    <h2 class="mt-4" justify="start">info</h2>
+    <h2 class="mt-4" justify="start">Info</h2>
     <v-row class="fill-height" align="center" justify="center">
       <template v-for="(item, i) in items">
         <v-col :key="i" cols="12" md="3">

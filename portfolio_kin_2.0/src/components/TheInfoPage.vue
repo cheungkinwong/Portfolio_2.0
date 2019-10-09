@@ -94,7 +94,8 @@ export default {
         list: {
           1: "2007-2009: Umicore Lab Technician",
           2: "2010: JPG Pharma Desktop Publisher",
-          3: "2011-2019: Gazelle Prepress Coordinator"
+          3: "2011-2019: Gazelle Prepress Coordinator",
+          4: "2nd Place T2 Hackathon Hasselt"
         },
         img: "experience.jpg"
       },
